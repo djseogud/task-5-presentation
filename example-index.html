@@ -5,12 +5,12 @@
 		<meta charset="utf-8">
 		
 		<!-- BASE URL: change this href to the intended URL of your slide show, e.g. - http://USERNAME.github.io/SLIDESHOW-REPO/ -->
-		<base href="djseogud.github.io/task-5-presentation/#"> 
+		<base href=".//"> 
 
-		<title>Give the Clown a Crown</title>
+		<title>An example reveal.js slide presentation</title>
 		
 		
-		<meta name="author" content="Andy Seo">
+		<meta name="author" content="John D. Martin III">
 		
 		<meta name="apple-mobile-web-app-capable" content="yes" />
 		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -44,14 +44,14 @@
 			<div class="slides">
 				
 				<section>
-					<h1>Give the Clown a Crown</h1>
-					<h3>Andy Seo</h3>
+					<h1>An example reveal.js slide presentation</h1>
+					<h3>John D. Martin III</h3>
 					<p>
-						<h4>July 31, 2017</h4>
+						<h4>19 July, 2016</h4>
 					</p>
 				</section>
 			
-<!--BEGIN: REMOVE OR COMMENT THIS SECTION FOR YOUR FINAL PRESENTATION
+<!--BEGIN: REMOVE OR COMMENT THIS SECTION FOR YOUR FINAL PRESENTATION-->
 				<section id="example" class="slide level1" data-background="#000" data-background="images/cursor.gif" data-audio-src="audio/1.0.ogg">
 					
 					<h2 style="color:#22ff00">
@@ -70,59 +70,37 @@
 <!--END: REMOVE OR COMMENT THIS SECTION FOR YOUR FINAL PRESENTATION-->
 			
 
-<section id="section" class="slide level1">
-<h1>2016</h1>
+<section id="markdown-in-html5" class="slide level1"  data-audio-src="audio/2.0.ogg">
+<h1>Markdown in, HTML5</h1>
+<pre><code>pandoc -t revealjs --template=template-index.html -s --variable theme=&quot;black&quot; --variable transition=&quot;slide&quot; --variable revealjs-url=&quot;http://YOUR-USERNAME.github.io/YOUR-REPO-NAME/&quot; YOUR-MARKDOWN-FILENAME.md -o YOUR-HTML-FILENAME.html</code></pre>
+<aside class="notes">
+Every top level markdown header in this file will be translated into a &quot;section&quot; in your HTML5 output. This output will be plain, using only the base reveal.js style. The command above, mutatis mutandis, will let you do the conversion.
+</aside>
 </section>
-<section id="the-king" class="slide level1">
-<h1>The King</h1>
-<ul>
-<li>13-time All-Star</li>
-<li>13-time All-NBA selection</li>
-<li>4-time MVP</li>
-<li>3-time champion</li>
-<li>7 consecutive Finals appearances ## Career Averages</li>
-<li>27.1 PPG</li>
-<li>7.3 RPG</li>
-<li>7.0 APG # Mr. Popular</li>
-<li><h1>1 player that other players secretly want on their team</h1></li>
-<li>Heralded as the greatest teammate</li>
-</ul>
+<section id="adding-audio" class="slide level1">
+<h1>Adding audio</h1>
+<pre><code>&lt;section id=&quot;my-slide&quot; class=&quot;slide level1&quot; data-audio-src=&quot;audio/myaudio01.ogg&quot;&gt;
+  &lt;h2&gt;
+    My slide
+  &lt;/h2&gt;
+&lt;/section&gt;</code></pre>
+<aside class="notes">
+To add audio, you have to add the data-audio-src attribute and specify a path to the associated audio file in your HTML file, as shown on the screen. Using this technique, you should only add the audio after you have written your presentation in the form of the file that we converted to make this presentation. That input file uses markdown with embedded &quot;aside&quot; tags with notes as the class. You can also add audio files to the &quot;audio&quot; directory named one point zero dot ogg, two point zero dot ogg, an d so one, corresponding to the appropriate slide number.
+</aside>
 </section>
-<section id="homecoming-king" class="slide level1">
-<h1>Homecoming King</h1>
-<ul>
-<li>decides rather secretively (not even Dwyane Wade knew until the day of) to return to the Land in 2014</li>
-<li>just two weeks after Irving committed to the franchise by signing a five-year extension (ends 2019)</li>
-</ul>
+<section id="experimenting" class="slide level1">
+<h1>Experimenting</h1>
+<pre><code>git add -v .
+git commit -a -m &quot;I made a small change&quot;
+git push</code></pre>
+<aside class="notes">
+<p>Reveal is very powerful, so try exploring some of its features, but be careful not to make any changes that you can't roll back. In other words, make a change, use git to add, commit, and push. Then test. If you don't like the change, you can always roll it back. If you do this, then you will be able to fix things easily if you break something by reverting your last commit. If you are testing locally, you don't have to push your changes. Just commit them. You will still be able to roll them back using the git revert command. &lt;&gt;</p>
 </section>
-<section id="history-repeats-itself" class="slide level1">
-<h1>History repeats itself</h1>
-<ul>
-<li>There is no telling where the King will go come 2018</li>
-<li>Even Kobe had trouble</li>
-</ul>
-</section>
-<section id="goes-against-the-grain" class="slide level1">
-<h1>Goes against the Grain</h1>
-<h2 id="the-superstar-stacking">The superstar stacking</h2>
-<ul>
-<li>CP3 joins The Beard (HOU)</li>
-<li>Hayward joins IT (BOS)</li>
-<li>Butler joins KAT (MIL)</li>
-<li>PG joins Russ (OKC)</li>
-</ul>
-</section>
-<section id="why" class="slide level1">
-<h1>Why?</h1>
-<ul>
-<li>As a young and ambitious supertar, the NBA is a once in a lifetime opportunity to etch his legacy into hardwood forever.</li>
-<li>He resents being the little brother and the wins weren't worth the &quot;James sauce&quot;</li>
-<li>Only following in big brother's footsteps: James is the prototype signee</li>
-<li>His chance to return the favor and make a power-move that</li>
-</ul>
-</section>
-<section id="where-to" class="slide level1">
-<h1>Where to?</h1>
+<section id="enjoy" class="slide level1">
+<h1>Enjoy</h1>
+<aside class="notes">
+Once you get used to using reveal, you might actually enjoy the fact that all you have to do is write. No more messy GUI hiding your text from you. No more buttons and drop-downs and the temptation to use too many effects. You now have a very powerful tool in your hands for creating presentations that can be shown in any web browser, anywhere. If you keep your work in GitHub or somewhere similar, you can also easily share your finished presentations.
+</aside>
 </section>
 
 			</div>
@@ -142,7 +120,7 @@
 				history: true,
 				center: true,
 
-				transition: 'zoom', // none/fade/slide/convex/concave/zoom
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
 				
 				// USE THESE SETTINGS FOR THE AUDIO AND AUTO-ADVANCE
 				//autoSlide: 5000,

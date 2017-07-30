@@ -18,7 +18,7 @@
 * #1 player that other players secretly want on their team
 * Heralded as the greatest teammate
 
-fv
+
 
 # Homecoming King
 * decides rather secretively (not even Dwyane Wade knew until the day of) to return to the Land in 2014
