@@ -2,6 +2,7 @@
 % Andy Seo
 % July 31, 2017   
 
+# 2016
 
 # The King
 * 13-time All-Star 
@@ -16,6 +17,8 @@
 # Mr. Popular 
 * #1 player that other players secretly want on their team
 * Heralded as the greatest teammate
+
+fv
 
 # Homecoming King
 * decides rather secretively (not even Dwyane Wade knew until the day of) to return to the Land in 2014
@@ -36,18 +39,10 @@
 
 * As a young and ambitious supertar, the NBA is a once in a lifetime opportunity to etch his legacy into hardwood forever.
 * He resents being the little brother and the wins weren't worth the "James sauce"
-* Only following in big brother's footsteps: James is the prototype sign 
+* Only following in big brother's footsteps: James is the prototype signee
 * His chance to return the favor and make a power-move that 
 
 # Where to?
 
-* 
 
 
-# From what I've tasted of desire
-# I hold with those who favor fire.
-# But if it had to perish twice,
-# I think I know enough of hate
-To say that for destruction ice  
-Is also great  
-And would suffice.  data-audio-src="2.0-name.ogg">
