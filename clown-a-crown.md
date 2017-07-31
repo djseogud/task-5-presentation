@@ -2,16 +2,12 @@
 % Andy Seo
 % July 31, 2017   
 
- 
-
-
-
-# vs. Career Averages 
+ # vs. Career Averages 
 * PPG: 27.1 vs. 21.6
 * RPG: 7.3 vs. 3.4
-* APG: 7.0 APG vs. 5
+* APG: 7.0 APG vs. 5.5
 # Mr. Popular 
-* #1 player that other players secretly want on their team
+* the # 1 player that other players secretly want on their team
 * Heralded as the greatest teammate
 
 
@@ -32,12 +28,11 @@
 
 # Why?
 
-* As a young and ambitious supertar, the NBA is a once in a lifetime opportunity to etch his legacy into hardwood forever.
-* He resents being the little brother and the wins weren't worth the "James sauce"
-* Only following in big brother's footsteps: James is the prototype signee
-* His chance to return the favor and make a power-move that 
-
-# Where to?
+# As a young and ambitious supertar, the NBA is a once in a lifetime opportunity to etch his legacy into hardwood forever.
+#  He resents being the little brother 
+#  His chance to return the favor and make his own power-move
+# Mamba mentality
+Just like how Kobe left Shaq
 
 
 
