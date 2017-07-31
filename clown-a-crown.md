@@ -2,18 +2,14 @@
 % Andy Seo
 % July 31, 2017   
 
-# 2016
+ 
 
-# The King
-* 13-time All-Star 
-* 13-time All-NBA selection
-* 4-time MVP
-* 3-time champion
-* 7 consecutive Finals appearances
-## Career Averages
-* 27.1 PPG 
-* 7.3 RPG 
-* 7.0 APG 
+
+
+# vs. Career Averages 
+* PPG: 27.1 vs. 21.6
+* RPG: 7.3 vs. 3.4
+* APG: 7.0 APG vs. 5
 # Mr. Popular 
 * #1 player that other players secretly want on their team
 * Heralded as the greatest teammate
@@ -26,14 +22,13 @@
 
 # History repeats itself
 * There is no telling where the King will go come 2018 
-* Even Kobe had trouble 
 
-# Goes against the Grain
-## The superstar stacking
-* CP3 joins The Beard (HOU)
-* Hayward joins IT (BOS)
-* Butler joins KAT (MIL)
-* PG joins Russ (OKC)
+
+
+# The superstar stacking
+# CP3 joins The Beard (HOU)
+# Hayward joins IT (BOS)
+# PG joins Russ (OKC)
 
 # Why?
 
